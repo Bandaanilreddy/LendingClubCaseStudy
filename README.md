@@ -41,6 +41,7 @@ Loan rejected: The company had rejected the loan (because the candidate does not
 
 The Dataset contains the information about past loan applicants (around 113 columns & 39,000 rows) and whether they ‘defaulted’ or not. 
 
+## Steps followed
 #### Step 1: Data Cleaning 
 #### Step 2: Univariate Analysis
 #### Step 3: Segemented Univariate Analysis
